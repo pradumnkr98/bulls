@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "in.ongrid.Perdun.model.entity.TwilioConfig",
+      "sourceType": "in.ongrid.Perdun.model.entity.TwilioConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "in.ongrid.Perdun.model.entity.TwilioConfig"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "in.ongrid.Perdun.model.entity.TwilioConfig"
+    },
+    {
+      "name": "twilio.trial-number",
+      "type": "java.lang.String",
+      "sourceType": "in.ongrid.Perdun.model.entity.TwilioConfig"
+    }
+  ],
+  "hints": []
+}
